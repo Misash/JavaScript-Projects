@@ -8,6 +8,7 @@ some projects I did to apply what I learned in Javascript
 - Vanilla JavaScript stopwatch
 - JavaScript clock
 - Dicee Game
+- Drum Kit
 
 
 ## Demo
@@ -24,4 +25,10 @@ some projects I did to apply what I learned in Javascript
 - Dicee Game 
 <p align="center">
   <img  width="30%" height="20%" src="https://user-images.githubusercontent.com/70419764/148661842-86612341-0b57-4469-a2e6-9a4a15e4e775.png" />
+</p>
+
+- Drum Kit
+
+<p align="center">
+  <img  width="30%" height="20%" src="https://user-images.githubusercontent.com/70419764/148668483-f506566e-f634-4847-ab67-61d83f007ee8.png" />
 </p>
