@@ -76,10 +76,6 @@ function checkAnswer(currentLevel){
 
 
 
-
-
-
-
 function nextSequence() {
 
 

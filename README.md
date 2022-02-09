@@ -32,3 +32,10 @@ some projects I did to apply what I learned in Javascript
 <p align="center">
   <img  width="30%" height="20%" src="https://user-images.githubusercontent.com/70419764/148668483-f506566e-f634-4847-ab67-61d83f007ee8.png" />
 </p>
+
+
+- Simon Game
+
+<p align="center">
+  <img  width="30%" height="20%" src="https://user-images.githubusercontent.com/70419764/153289635-5f5e5b4d-a465-4ceb-94cb-b9878ea47a8b.png" />
+</p>
