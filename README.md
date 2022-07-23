@@ -1,4 +1,4 @@
-# 22 JavaScript Projects
+# JavaScript Projects
 
 some projects I did to apply what I learned in Javascript
 
